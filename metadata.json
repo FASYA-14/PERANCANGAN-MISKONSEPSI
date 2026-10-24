@@ -1,0 +1,6 @@
+{
+  "name": "Sistem Cerdas Analisis Miskonsepsi Fungsi Matematika",
+  "description": "Prototipe sistem cerdas diagnostik empat tingkat dan visualisasi adaptif konsep fungsi matematika berbasis riset UPI menuju Education 5.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
